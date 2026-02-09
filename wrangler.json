@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "lithium-battery-control",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9b3551c7-a23b-498b-8e5f-23e92e219a63",
+			"database_name": "lithium-battery-control"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
